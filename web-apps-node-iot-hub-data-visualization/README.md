@@ -1,3 +1,8 @@
+Note
+----
+
+Modify the line in the file web-apps-node-iot-hub-data-visualization/scripts/event-hub-reader.js by adding the `IoThowner connection string` located in IoTHub "Share access policies" iothubowner connectionstring, which is not the device connection string.
+
 ---
 page_type: sample
 languages:
